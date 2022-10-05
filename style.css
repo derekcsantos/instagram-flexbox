@@ -148,7 +148,8 @@ body {
   }
 
   .instagram-continue {
-    width: 100% 
+    width: 100%;
+    min-width: fit-content;
   }
 
   .group {
